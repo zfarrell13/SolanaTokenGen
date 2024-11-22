@@ -86,12 +86,19 @@ python main.py "Sampletoken1" "S1" "path/to/sampletoken1_image.jpeg" 1000000 "Th
 ## 🎉 What’s Next?
 
 Now that you’ve created your token, here are a few things you can do:
-- **List Your Token** on Solana marketplaces or use it within decentralized applications (DApps).
+- **List Your Token** on Solana marketplaces or use it within decentralized applications (DApps). If you want to create a Raydium Pool to get listed on sites like Dexscreener, see the section below.
 - **Build Applications** that interact with your token, such as reward systems, voting mechanisms, or in-game assets.
 - **Create NFTs** or use the token as part of your NFT collections.
 - **Experiment and Learn** about Solana and tokenomics while developing your blockchain expertise!
 
 Let **SOLTOKENGEN** help bring your ideas to life on the Solana blockchain! 🚀✨
+
+## ☀ Raydium
+
+If you want to create a Raydium Pool to get listed on sites like Dexscreener, here is some important information:
+- **Token-2022 Program** SolanaTokenGen creates tokens with the Token-2022 Token Program, with freeze-authority disabled by default.
+- **Standard AMM** This means when you create a pool, you have to click t he Standard AMM Pool Type, otherwise your token will not get listed on sites like Dexscreener.
+
 
 ## 📝 TODO
 
