@@ -93,6 +93,10 @@ Now that you’ve created your token, here are a few things you can do:
 
 Let **SOLTOKENGEN** help bring your ideas to life on the Solana blockchain! 🚀✨
 
+## 📝 TODO
+
+- [ ] Add testnet functionality for testing tokens before mainnet deployment
+
 ## ☕ Support the Project
 
 If you find this tool useful, consider supporting its development:
