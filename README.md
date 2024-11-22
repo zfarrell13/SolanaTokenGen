@@ -1,10 +1,10 @@
-# SOLGEN
+# SOLTOKENGEN
 
 ### Effortlessly Create Your Own Solana Tokens 🌟
 
-**SOLGEN** makes creating tokens on the Solana mainnet easier than ever. Whether you're building a new project, minting tokens for an NFT series, or experimenting with Solana, this tool helps you generate tokens with custom names, symbols, images, descriptions, and mint amounts. No prior blockchain development experience is required!
+**SOLTOKENGEN** makes creating tokens on the Solana mainnet easier than ever. Whether you're building a new project, minting tokens for an NFT series, or experimenting with Solana, this tool helps you generate tokens with custom names, symbols, images, descriptions, and mint amounts. No prior blockchain development experience is required!
 
-With **SOLGEN**, you can:
+With **SOLTOKENGEN**, you can:
 - Quickly launch your own Solana token for personal or commercial projects.
 - Assign metadata like an image and description to make your token stand out.
 - Mint any desired amount of tokens directly to your wallet.
@@ -91,4 +91,4 @@ Now that you’ve created your token, here are a few things you can do:
 - **Create NFTs** or use the token as part of your NFT collections.
 - **Experiment and Learn** about Solana and tokenomics while developing your blockchain expertise!
 
-Let **SOLGEN** help bring your ideas to life on the Solana blockchain! 🚀✨
+Let **SOLTOKENGEN** help bring your ideas to life on the Solana blockchain! 🚀✨
