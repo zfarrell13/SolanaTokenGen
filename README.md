@@ -92,3 +92,9 @@ Now that you’ve created your token, here are a few things you can do:
 - **Experiment and Learn** about Solana and tokenomics while developing your blockchain expertise!
 
 Let **SOLTOKENGEN** help bring your ideas to life on the Solana blockchain! 🚀✨
+
+## ☕ Support the Project
+
+If you find this tool useful, consider supporting its development:
+
+- Solana (SOL): `7FQPqoirNy47NRzTv4N9VKDfKy8aS6WwhgETvB94z9Uj`
