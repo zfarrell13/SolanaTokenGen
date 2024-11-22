@@ -15,7 +15,7 @@ With **SOLTOKENGEN**, you can:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/zfarrell13/SOLGEN.git
+   git clone https://github.com/zfarrell13/SolanaTokenGen.git
    ```
    
 2. **Set Up the Python Environment**:
@@ -29,7 +29,7 @@ With **SOLTOKENGEN**, you can:
      ```
    - Install dependencies:
      ```bash
-     cd SOLGEN
+     cd SolanaTokenGen
      pip install -r requirements.txt
      ```
 
