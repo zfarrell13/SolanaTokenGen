@@ -97,7 +97,7 @@ Let **SOLTOKENGEN** help bring your ideas to life on the Solana blockchain! 🚀
 
 If you want to create a Raydium Pool to get listed on sites like Dexscreener, here is some important information:
 - **Token-2022 Program** SolanaTokenGen creates tokens with the Token-2022 Token Program, with freeze-authority disabled by default.
-- **Standard AMM** This means when you create a pool, you have to click t he Standard AMM Pool Type, otherwise your token will not get listed on sites like Dexscreener.
+- **Standard AMM** This means when you create a pool, you have to click the Standard AMM Pool Type, otherwise your token will not get listed on sites like Dexscreener.
 
 
 ## 📝 TODO
