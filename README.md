@@ -64,8 +64,8 @@ usage: main.py [-h] name symbol image_path mint_amount description
 Create a Solana token with metadata
 
 positional arguments:
-  name         Token name -- eg. "SPT" (in quotes, it has to be one word, no spaces)
-  symbol       Token symbol -- eg. "SampleToken" (in quotes, it has to be one word, no spaces)
+  name         Token name -- eg. "SampleToken" (in quotes, it has to be one word, no spaces)
+  symbol       Token symbol -- eg. "SPT" (in quotes, it has to be one word, no spaces)
   image_path   Path to the token image -- eg. "/path/to/sampletoken_image.jpeg" (in quotes, no spaces)
   mint_amount  Amount of tokens to mint -- eg. 1000000 (integer)
   description  Token description -- eg. "This is a test token" (in quotes)
